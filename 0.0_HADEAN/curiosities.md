@@ -1,0 +1,1 @@
+The Observable set has at times certain numerical constraints, e.g. Plank constant, energy states of electrons, where 'jumps' occur. Floating point systems also have this effect. It would be interesting to run calculations and see if the ratio of these jumps match an nth floating system. Also note that floating point systems have jumps both in the really big and the really small.
