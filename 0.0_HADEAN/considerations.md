@@ -13,4 +13,4 @@ which matters more, associativity or commutativity or if both are needed.
 	- (`arithmetic type`<sup>*</sup>, `<<`) and (`arithmetic type`, `>>`) are not abelian groups.
 	- (`arithmetic type`, `|`) and (`arithmetic type`, `&`) are abelian groups.
 	- If (input set, operation) is an abelian group, and both a `read` and `write` must be done on the same element, the `read` and `write` must be done atomically. -->
-3. Dealing with `arithmetic type` overflows.
+3. Specifying the behavior of `arithmetic type` overflows or making it computationally impossible to overflow.
