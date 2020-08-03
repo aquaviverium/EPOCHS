@@ -7,5 +7,6 @@ A surface in which computational irreducible events can take place.
 ## Requirements
 
 - [ ] Pixel per pixel capable interactions.
-- [ ] Visual way of displaying the current state.
-- [ ] Propagation of quanta throughout the aether.
+- [X] Visual way of displaying the current state.
+- [X] Propagation of quanta throughout the aether.
+- [ ] Parallelization of update.
